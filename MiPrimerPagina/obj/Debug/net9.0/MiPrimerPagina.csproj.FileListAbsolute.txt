@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\bin\Debug\net9.0\MiPrimerPagina.exe
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\bin\Debug\net9.0\MiPrimerPagina.deps.json
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\bin\Debug\net9.0\MiPrimerPagina.runtimeconfig.json
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\bin\Debug\net9.0\MiPrimerPagina.dll
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\bin\Debug\net9.0\MiPrimerPagina.pdb
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\obj\Debug\net9.0\MiPrimerPagina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\obj\Debug\net9.0\MiPrimerPagina.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\obj\Debug\net9.0\MiPrimerPagina.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\obj\Debug\net9.0\MiPrimerPagina.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\obj\Debug\net9.0\MiPrimerPagina.dll
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\obj\Debug\net9.0\refint\MiPrimerPagina.dll
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\obj\Debug\net9.0\MiPrimerPagina.pdb
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\obj\Debug\net9.0\MiPrimerPagina.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Tareas\7mo\Programación Distribuida\programas\MiPrimerPagina\obj\Debug\net9.0\ref\MiPrimerPagina.dll
